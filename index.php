@@ -9,7 +9,7 @@
 	
 	// I. define some constants
 	define('MIN_LIMIT', 1); 
-	define('MAX_LIMIT', 10); 
+	define('MAX_LIMIT', 12); 
 	
 	
 	// II. $jokes contains our data
